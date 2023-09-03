@@ -1,8 +1,14 @@
+Общее
 Учебно-методические материалы дисциплины: https://github.com/gurgutan/NI
 Открытый сервис для хранения и доступа к статьям по физике, математике, компьютерным наукам: https://arxiv.org/
 Сервис для написания и исполнения кода Python: https://colab.research.google.com
 Сервис для написани и исполнения кода Wolfram Language: https://www.wolframcloud.com/
 Профессиональный информационно-аналитический ресурс, посвященный машинному обучению, распознаванию образов и интеллектуальному анализу данных: MachineLearning.ru 
-Примеры программ для демонстрации моделей глубокого обучения: https://keras.io/examples/
+
+Тема 6
+Нейронные сети 3Blue1Brown: https://youtube.com/playlist?list=PLZHQObOWTQDNU6R1_67000Dx_ZCJB-3pi
+
+Тема 12
 Обучение НС управлять змейкой: https://youtu.be/LufhgowND9A
 Обучение машинок https://youtu.be/ENhjKmOFX1Q
+Примеры программ для демонстрации моделей глубокого обучения: https://keras.io/examples/
